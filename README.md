@@ -9,8 +9,8 @@
 ### Lancement
 
 1. **Serveur local**
-
-- Ouvrir un CMD à l'endroit où se trouve le `server.py`
+  
+- Ouvrir un cmd à l'endroit où se trouve le `server.py`
 - Lancer `runServerLocal.bat` ce qui fera l'installation des librairies de `requirements.txt` et lancera le serveur Flask
 - Utiliser le `PORT` (par défaut 9200, sauf modification) que Flask retourne pour l'implémenter dans Android Studio
 
